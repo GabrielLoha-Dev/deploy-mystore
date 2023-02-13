@@ -24,7 +24,10 @@ section{
 }
 
 img{
-    height: 15rem;
+    min-height: 15rem;
     display: inline-block;
+    height: auto;
+    width: auto;
+    max-height: 15rem;
 }
 
